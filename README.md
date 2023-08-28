@@ -16,3 +16,10 @@ Below you can see what the images of the dataset look like.
 ![image](https://github.com/elizabethiva/Machine_Learning_Portfolio/assets/118481379/95212319-aa88-4de5-b3d1-82e8d3415ed0)
 The model architecture is designed to achieve an accuracy of 92% for both training and validation data.
 ![image](https://github.com/elizabethiva/Machine_Learning_Portfolio/assets/118481379/d77e1981-e3f9-46b2-8093-ae4510fd9a18)
+
+
+# BBC News Classification
+The goal of this project is to build a system capable of accurately classifying previously unseen news articles into the correct category.
+In this project, we utilize the [BBC News Classification Dataset](https://www.kaggle.com/c/learn-ai-bbc/overview), which comprises 2225 instances of news articles along with their corresponding labels.
+The model architecture is designed to achieve an accuracy of 95% for validation data.
+![image](https://github.com/elizabethiva/Machine_Learning_Portfolio/assets/118481379/5472f821-f1b1-4744-8770-32af14086ac3)
