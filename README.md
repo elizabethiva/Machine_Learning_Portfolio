@@ -23,3 +23,12 @@ The goal of this project is to build a system capable of accurately classifying 
 In this project, we utilize the [BBC News Classification Dataset](https://www.kaggle.com/c/learn-ai-bbc/overview), which comprises 2225 instances of news articles along with their corresponding labels.
 The model architecture is designed to achieve an accuracy of 95% for validation data.
 ![image](https://github.com/elizabethiva/Machine_Learning_Portfolio/assets/118481379/5472f821-f1b1-4744-8770-32af14086ac3)
+
+
+# Sunspot Activity Forecasting
+This project focuses on measuring and forecasting sunspot activity. Sunspots, dark areas on the sun's surface, are a crucial aspect of solar research and have implications for space weather and terrestrial communications.
+The goal of this project is to analyze and predict sunspot activity based on historical data.
+The analysis is based on historical data from the [Sunspots Dataset](https://www.kaggle.com/datasets/robervalt/sunspots), spanning 272 years (1749-2021) of monthly sunspot counts.
+The model leverages convolutional layers followed by stacked LSTMs and dense layers.
+The model architecture is designed to achieve a loss of 16.2 and a Mean Absolute Error (MAE) of 16.7 when predicting sunspot activity.
+![image](https://github.com/elizabethiva/Machine_Learning_Portfolio/assets/118481379/28d7ff21-a779-4261-89fa-a0fbe194bd7d)
